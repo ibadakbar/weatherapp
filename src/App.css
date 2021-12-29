@@ -1,0 +1,140 @@
+body {
+  margin: 0 auto;
+  background-color: #DA70D6;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 12px;
+  color: white;
+}
+
+.card-css {
+  margin-top: -13px !important;
+  font-size: 15px;
+  color: white;
+
+}
+
+.icon-sty {
+  font-size: 100px !important;
+  color: white;
+
+}
+
+.temp {
+  font-weight: normal !important;
+  color: white;
+}
+
+.card {
+  width: 24% !important;
+  border-radius: 20px !important;
+  margin: 15px 20px 0px 20px;
+
+}
+
+.cardone {
+
+  background-color: #23bbf5 !important;
+}
+
+.cardtwo {
+
+  background-color: #ffcc5f !important;
+}
+
+.cardthree {
+
+  background-color: #292a3a !important;
+}
+
+.hr-css {
+  width: 159px !important;
+  margin: 0 auto !important;
+}
+
+.icon-size {
+  font-size: 25px;
+
+
+}
+
+.footer {
+  justify-content: space-around;
+  margin-top: 8px;
+}
+
+.time-css {
+  font-size: 29px;
+  color: white;
+}
+
+.color {
+  color: white !important
+}
+
+.details {
+  line-height: 4px;
+  justify-content: space-between;
+  font-size: 13px;
+  margin: 0px 2px 0px 2px !important;
+  display: flex;
+
+
+}
+
+.card-deck {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.card-deck {
+  background-color: #7c277c;
+
+}
+
+html {
+  background-color: #7c277c;
+}
+
+p {
+  font-size: 10px;
+}
+
+@media screen and (max-width: 1290px) {
+
+  .card {
+    width: 100% !important;
+  }
+
+  .left {
+    margin-left: 8px !important;
+  }
+
+  .card {
+    margin: 0px;
+  }
+
+}
+
+
+@media screen and (max-width: 650px) {
+  .card-deck {
+    display: block;
+  }
+
+  .left {
+    margin-left: 0px !important;
+
+  }
+
+  .marg {
+    margin-top: 10px;
+  }
+
+}
